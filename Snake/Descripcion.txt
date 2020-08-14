@@ -1,0 +1,12 @@
+SNAKE GAME
+
+*** Descripción ***
+- El juego consiste en guíar a la serpiente hacia la comida.
+- El objetivo es obtener el mejor puntaje.
+- En este caso, las distintas frutas tienen un valor aleatorio, y pueden llegar
+a restar puntos.
+- Se maneja con las flechas, el boton Z para elegir las opciones y X para
+volver al menu.
+
+   Para la creación se utilizo el módulo PyGame de python.
+   Para empezar a jugar se debe ejecutar el archivo SnakeGame.py
