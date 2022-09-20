@@ -20,6 +20,11 @@ Juego Snake creado como TP Final para el curso "Programación en Python"
 * En este caso, las distintas frutas tienen un valor aleatorio, y pueden llegar a restar puntos.
 * Se maneja con las flechas, el boton Z para elegir las opciones y X para volver al menu.
 
+## Capturas de pantalla
+![](./snake_game1.png)
+![](./snake_game2.png)
+![](./snake_game3.png)
+
 ## COPYRIGHT
 Creado por Ana Kloss
 
